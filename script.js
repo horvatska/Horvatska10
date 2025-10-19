@@ -54,11 +54,11 @@ function createWindow(url, title, customId = null, iconSrc = null, iconAlt = "")
 if (iconSrc) {
   createTaskbarIcon(id, iconSrc, iconAlt);
 } else if (url === "about.html") {
-  createTaskbarIcon(id, "assets/images/exe.jpg", "O sustavu");
+  createTaskbarIcon(id, "assets/images/exe.png", "O sustavu");
 } else if (url === "recycle-bin.html") {
   createTaskbarIcon(id, "assets/images/recycle-bin.png", "Recycle Bin");
 } else if (url === "novosti.html") {
-  createTaskbarIcon(id, "assets/images/exe.jpg", "Novosti"); 
+  createTaskbarIcon(id, "assets/images/exe.png", "Novosti"); 
 } else if (title === "README.md") {
   createTaskbarIcon(id, "assets/images/text-file.png", "README.md"); 
 } else if (title !== "Internet Explorer") {
