@@ -1,4 +1,4 @@
-# HORVATSKA V4.0
+# HORVATSKA V10
 
 - NOVA MOCNA VERZIJA HORVATSKE STRANICE SA SPECIJALNIM OPERATIVNIM SISTEMOM NAPRAVLJEN ZA PORNHUB.COM
 - Ne gasi kompjuter...
@@ -9,4 +9,4 @@
 - Novi Desktop Interface - za lagano korištenje horvatska pc
 - Neam pojma vise
 
-# VERZIJA 4.0
+# VERZIJA NT 4.0
